@@ -1,0 +1,40 @@
+body {
+  color: #fff;
+  background-color: #393838;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+input {
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+input:not(:last-child) {
+  margin-right: 10px;
+}
+
+h1 {
+  justify-content: center;
+  margin-top: 150px;
+  display: flex;
+}
+
+div {
+  justify-content: center;
+  display: flex;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #e9967a;
+  border: none;
+  border-radius: 15px;
+  margin: 30px auto 0;
+  padding: 10px 20px;
+  font-size: 60px;
+  display: block;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */

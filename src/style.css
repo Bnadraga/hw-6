@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(57, 56, 56);
+  font-size: 30px;
+  font-family: "Montserrat";
+  font-weight: 800;
+  color: white;
+}
+input {
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+input:not(:last-child) {
+  margin-right: 10px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+button {
+  background-color: darksalmon;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 20px;
+  font-size: 60px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  cursor: pointer;
+}
